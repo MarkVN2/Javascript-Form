@@ -1,0 +1,43 @@
+[
+    {
+    "exercise_id":"0",
+	"exercise_text" : "How many letters are in 'Thiago'?", 
+	"anwser" : "A",
+	"anwsers":{
+        "A":"6",
+        "B":"7",
+        "C":"5"
+    }
+},
+{
+    "exercise_id":"1",
+	"exercise_text" : "How much is 3x3", 
+	"anwser" : "B",
+	"anwsers":{
+        "A":"6",
+        "B":"9",
+        "C":"33"
+    }
+},
+{
+    "exercise_id":"2",
+	"exercise_text" : "How much is 2+2?", 
+	"anwser" : "A",
+	"anwsers":{ 
+        "A":"4",
+        "B":"22",
+        "C":"5"
+    }
+},
+{
+    "exercise_id":"3",
+	"exercise_text" : "How much is 5! ?", 
+	"anwser" : "C",
+	"anwsers":{ 
+        "A":"1200",
+        "B":"5",
+        "C":"120"
+    }
+}
+
+]
