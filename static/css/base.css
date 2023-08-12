@@ -1,0 +1,32 @@
+.form-question{
+    background-color: #fff;
+    border: 2px solid black;
+    border-radius: 20px;
+    text-align: center;
+    margin: 20px;
+    padding:20px;
+}
+.form-label{
+    margin: 20px;
+}
+.form-question > h1 , label{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.question{
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    aspect-ratio: 1;
+    background-color: rgb(250, 250, 250);
+    border: 2px solid black;
+    border-radius: 20px;
+    text-align: center;
+    height: 10px;
+    margin: 20px;
+    padding:20px;
+}
+.right{
+    background-color: #00ff0080;
+}
+.wrong{
+    background-color: #ff000080;
+}
