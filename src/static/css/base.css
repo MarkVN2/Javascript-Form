@@ -30,3 +30,12 @@
 .wrong{
     background-color: #ff000080;
 }
+#awnser-list{
+    display: flex;
+}
+.awnser-list-object{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-inline: 10px;
+    border: 2px solid #000000;
+    text-align: center;
+}
